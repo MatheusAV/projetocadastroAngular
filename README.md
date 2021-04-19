@@ -2,7 +2,7 @@
 
 Este projeto foi criado com o [Angular CLI](https://github.com/angular/angular-cli) versão 7.0.5.
 
-Você pode acessar ele pelo [Github Pages](https://giordanna.github.io/projeto-cadastro-pessoa/). Nele, ao invés de se usar uma API de mockup, utiliza-se localStorage.
+
 
 ## Escopo
 
@@ -38,5 +38,4 @@ Para executar o servidor de endpoints de API, em um outro terminal na mesma past
 
 Execute `ng build` para buildar o projeto. Para buildar a versão de produção adicione a flag `--prod`. Os arquivos serão armazenados do diretório `dist`.
 
-## Dúvidas
-Caso há alguma dúvida em relação a este repositório, envie para gior.grs@gmail.com.
+
